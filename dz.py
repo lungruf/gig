@@ -78,4 +78,6 @@ def playmenu():
      poisc()
  elif play == 4:
      delit()
+ elif play == 5:
+    print("by")
 playmenu()
